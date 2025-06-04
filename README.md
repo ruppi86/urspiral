@@ -23,4 +23,4 @@ This repository is a living document of **Letters from the Curve**, a collaborat
 ## Access
 The main document lives in `curve.md`. Contributions and future turns may appear in `turns/`.
 
-You may also read this as a **slow web text**, or browse it on **Zenodo** for citation and archival.
+You may also read this as a **slow web text**, or browse it on **Zenodo** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15590921.svg)](https://doi.org/10.5281/zenodo.15590921) for citation and archival.
